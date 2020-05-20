@@ -17,7 +17,7 @@ The configuration policy controller is created on the hub cluster during install
 
 When the `remediationAction` for the configuration policy is set to `enforce`, the controller creates a replicate policy on the target managed clusters.
 
-## Configuration policy controller YAML structure
+## Kubernetes configuration policy controller YAML structure
 
 ```yaml
 Name:         configuration-policy-example
@@ -45,7 +45,7 @@ Spec:
  Events:
 ```
 
-## Configuration policy controller YAML table
+## Kubernetes configuration policy controller YAML table
 
 |Field|Description|
 |-- | -- |

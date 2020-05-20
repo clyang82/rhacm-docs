@@ -1,4 +1,4 @@
-# Replacing the root CA certificate
+# Replace the root CA certificate
 
 You can replace the root CA certificate.
 

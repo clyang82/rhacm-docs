@@ -1,4 +1,4 @@
-# Replacing management ingress certificates
+# Replace management ingress certificates
 
 You can replace management ingress certificates.
 
@@ -161,4 +161,4 @@ Complete the following steps to replace your BYO ingress certificate:
    oc delete secret -n open-cluster-management byo-ingress-tls-secret
    ```
 
-See [Certificates](certificates.md) for more information about certificates that are created and managed by Red Hat Advanced Cluster Management for Kubernates. Return to the [Security page](security_intro.md) for more information on securing your cluster. 
+See [Certificates](certificates.md) for more information about certificates that are created and managed by Red Hat Advanced Cluster Management for Kubernates. Return to the [Security](security_intro.md) page for more information on securing your cluster. 
